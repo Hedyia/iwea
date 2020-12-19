@@ -456,6 +456,12 @@ canvas {
         overflow-x: hidden;
     }
 
+    .exchange-content {
+        right: -15% !important;
+        top: 18% !important;
+    }
+
+
 }
 
 .logo {
