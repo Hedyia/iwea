@@ -343,6 +343,17 @@ canvas {
     margin-top: 44px;
 }
 
+.tables_content {
+    margin-right: -17px;
+    margin-top: 24px;
+}
+
+
+.exchange-content {
+    margin-right: 35px;
+    margin-top: 20px;
+
+}
 
 @media screen and (max-width: 600px) {
 
@@ -354,6 +365,95 @@ canvas {
     .portfolio-right {
         margin-top: 82%;
 
+    }
+
+    .logo {
+        width: 116px;
+        margin-top: 11px;
+        margin: auto;
+        display: block;
+    }
+
+    .inside-circule {
+        height: 243px;
+        width: 243px;
+    }
+
+    .layer-image {
+        width: 140px;
+    }
+
+    .white-circle {
+        background-color: rgb(255, 255, 255);
+        height: 215px;
+        width: 215px;
+        margin: 5% auto auto;
+    }
+
+    .student_conetent p {
+        font-size: 8px;
+    }
+
+    .layer-content p {
+        font-size: 11px;
+    }
+
+    .layer-content {
+        right: 5%;
+    }
+
+    .layer1 {
+        position: absolute;
+        top: -58%;
+        right: 19px;
+    }
+
+    .layer-content3 p {
+        font-size: 10px !important;
+    }
+
+    .exchange-content {
+        right: -22% !important;
+        top: 16% !important;
+
+    }
+
+    .select-partner {
+        top: 21%;
+        right: -3%;
+
+    }
+
+    .layer-content6 {
+        bottom: 24%;
+        right: 14% !important;
+    }
+
+    .select-partner {
+        width: 91px !important;
+    }
+
+    .layer-content3 p {
+        font-size: 8px !important;
+    }
+
+    .layer-content3 {
+        right: 29px;
+    }
+
+    .layer-content4 {
+        right: -16% !important;
+        top: 28% !important;
+    }
+
+    .rotate-content {
+        top: 15%;
+        right: 14%;
+    }
+
+
+    body {
+        overflow-x: hidden;
     }
 
 }
